@@ -12,11 +12,7 @@
 * OpenCV - Use `conda install -c https://conda.anaconda.org/menpo opencv3`
 
 ### Main File with the pipeline
-Lane_Detection.ipynb
-
-### Output Video
-The output video is available online at [YouTube](https://youtu.be/HeHoOSbkd6A) and in the file **final_output.mp4**.
-[![Final results with the implementation](http://img.youtube.com/vi/HeHoOSbkd6A/0.jpg)](http://www.youtube.com/watch?v=HeHoOSbkd6A)
+lanes.py
 
 ### Future Work ###
 
